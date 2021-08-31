@@ -27,7 +27,7 @@ h1 {
 
 .issue {
 
-    background-image: url("./imgs/Tropical-day.gif");
+    background-image: url("./imgs/Tropical-day1.gif");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -36,6 +36,9 @@ h1 {
     vertical-align:middle;
 }
 
+.issue .message {
+    position: fixed;
+}
 .issue  {
  padding-left: 1rem;
 }
