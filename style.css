@@ -5,13 +5,23 @@ body {
     margin: 0;
     font-family: 'IBM Plex Sans Arabic', sans-serif;
     font-weight: 500;
-
 }
 
 p {
     font-size: 1.4rem;
     font-family: 'IBM Plex Sans Arabic', sans-serif;
     font-weight: 200;
+}
+
+#timer {
+    font-weight: 500;
+    color: #ffffff;
+    position:  absolute;;
+    right: 0;
+    top: 0;
+    background-color: #000000b8;
+    padding: 0px 5px;
+    border-radius: 15px;
 }
 
 h1 {
@@ -38,9 +48,6 @@ h1 {
 
 .issue .message {
     position: fixed;
-}
-.issue  {
- padding-left: 1rem;
 }
 
 
