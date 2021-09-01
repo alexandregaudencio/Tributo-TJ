@@ -16,7 +16,7 @@ p {
 #timer {
     font-weight: 500;
     color: #ffffff;
-    position:  absolute;;
+    position:  fixed;;
     right: 0;
     top: 0;
     background-color: #000000b8;
@@ -37,7 +37,7 @@ h1 {
 
 .issue {
 
-    background-image: url("./imgs/Tropical-day1.gif");
+    background-image: url("./imgs/Tropical-day.gif");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
