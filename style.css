@@ -20,7 +20,8 @@ p {
     right: 0;
     top: 0;
     background-color: #000000b8;
-    padding: 0px 5px;
+    padding: 0px 5px ;
+    margin-right: 10px;
     border-radius: 15px;
 }
 
